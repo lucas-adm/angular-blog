@@ -1,0 +1,21 @@
+@media screen and (max-width:570px) {
+    .container-small-card-content {
+        width: 100vw;
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+
+    .small-card-img {
+        width: 50vw;
+        min-height: unset;
+    }
+
+    .small-card-img > img {
+        width: 50vw;
+    }
+
+    .small-card-title {
+        margin-left: -10px;
+        font-size: clamp(3vw, 3vw, 3vw);
+    }
+}

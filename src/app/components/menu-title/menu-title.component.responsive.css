@@ -1,0 +1,5 @@
+@media screen and (max-width:720px) {
+    .menu-title-container>h1 {
+        font-size: clamp(50px, 20vw, 20vw);
+    }
+}
