@@ -5,11 +5,11 @@ import { ContentComponent } from './pages/content/content.component';
 
 const routes: Routes = [
   {
-    path: 'https://angular-blog-2mq9.onrender.com',
+    path: '',
     component: HomeComponent
   },
   {
-    path: 'https://angular-blog-2mq9.onrender.com/content/:id',
+    path: 'content/:id',
     component: ContentComponent
   }
 ];
