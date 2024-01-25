@@ -2,8 +2,6 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
-<br/>
-
 ## Para acessar o site <a href="https://angular-blog-2mq9.onrender.com">*clique aqui.*</a>
 
 <br/>
