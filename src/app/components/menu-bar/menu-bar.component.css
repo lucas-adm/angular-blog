@@ -1,5 +1,9 @@
 .container-menu-bar > ul {
     display: flex;
-    gap: 0 1.5rem;
+    gap: 0 .5rem;
     list-style-type: none;
+}
+
+.container-menu-bar > ul > a:hover {
+    opacity: .66;
 }
