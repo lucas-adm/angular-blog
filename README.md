@@ -12,4 +12,4 @@
 
 ### ▶ Acesse o blog por <a href="https://angular-blog-2mq9.onrender.com/">*aqui*</a>
 
-![](https://i.imgur.com/YaPZYnk.png)
+![](https://i.imgur.com/I1qEsuS.png)
