@@ -19,12 +19,18 @@ export class BigCardComponent implements OnInit {
 
   constructor(private route: ActivatedRoute) { }
 
+  summarizeDescription(description: string, wordCount: number): string {
+    const words = description.split(' ');
+    const summarizedWords = words.slice(0, wordCount);
+    return summarizedWords.join(' ') + '...';
+  }
+
   setValuesToBigCard(id: string | null) {
     const result = DataFake.find(article => article.id === id);
     if (result) {
       this.bigCardImg = result.contentImg;
       this.bigCardTitle = result.title;
-      this.bigCardDescription = result.description
+      this.bigCardDescription = this.summarizeDescription(result.description, 25);
     }
   }
 

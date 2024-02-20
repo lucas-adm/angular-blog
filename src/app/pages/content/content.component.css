@@ -11,11 +11,14 @@
 }
 
 .content-cover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-top: 25px;
     max-width: 500px;
     min-width: 500px;
-    max-height: 350px;
-    min-height: 350px;
+    max-height: 500px;
+    min-height: 500px;
 }
 
 .content-cover>img {
@@ -23,9 +26,23 @@
     height: 100%;
 }
 
-.content-description > p {
+.content-title {
+    margin-bottom: 1rem;
+}
+
+.content-title h1 {
+    text-align: center;
+}
+
+.content-title hr {
+    margin: 0 auto;
+    width: 75%;
+}
+
+.content-description>p {
     width: 75%;
     margin: 0 auto;
     text-align: justify;
     color: lightgrey;
+    padding-bottom: 2rem;
 }
