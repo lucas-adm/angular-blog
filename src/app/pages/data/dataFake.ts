@@ -19,7 +19,7 @@ export const DataFake = [
     },
     {
         "id": "4",
-        "contentImg": 'https://scontent.fplu8-1.fna.fbcdn.net/v/t1.6435-9/199658367_1161209784361108_4573860737651667752_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c2f564&_nc_ohc=A2m4AQfZaUcAX8P9h7a&_nc_ht=scontent.fplu8-1.fna&oh=00_AfCTVuW25e53Gymb8FlJfmVRPnKMumaUViqlEj-PFH0Zlg&oe=65FC4262',
+        "contentImg": 'https://www.netvasco.com.br/news/noticias16/arquivos/20180206-235446-1-.jpg',
         "title": "Real CRVG? O Real Madrid dos trópicos",
         "description": "Você sabia que o Vasco é um clube contemplado por uma honraria da realeza de Portugal e que poderia, se assim quisesse, acrescentar a palavra ''real'' antes do nome e a coroa portuguesa sobre o seu escudo? Essa é uma história que nasceu no longínquo ano de 1907, que ficou perdida após um regicídio - o assassinato de um rei - que chocou Portugal no início do século passado, mas que foi resgatada recentemente. O Vasco é o único clube fora de Portugal que detém esse Alvará Régio. Os detalhes estão destrinchados no livro ''125 anos de Glórias: Real Club de Regatas Vasco da Gama'', lançado na quinta-feira em um evento no Palácio de São Clemente, no Rio de Janeiro, onde funciona a sede da Embaixada de Portugal no Brasil. O ge conversou com Manuel Beninger, presidente da Associação Portuguesa dos Autarcas Monárquicos (APAM) e autor da obra (veja um resumo no vídeo acima) -- O livro não é um romance, é um registro histórico. Conta a história desses pequenos pormenores que dão o título ao Vasco. É como se o Vasco fosse o Real Madrid dos trópicos - brincou ele."
     }
